@@ -40,10 +40,9 @@ button:hover {
     background-color: #0056b3;
 }
 #result {
-    margin-top: 20px;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
+    margin-top: 2px;
+    padding: 0px;
+    border: none;
 }
 #loadingIndicator {
     position: fixed;
